@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "name": "Gnocchi à poeler",
+    "description": "Un classique",
+    "ingredients": [
+      "Un bon paquet de gnocchis"
+    ],
+    "recipeLink": "",
+    "filters": [
+      "Très rapide"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Pâtes carbo",
+    "description": "Lucie's best dishes",
+    "ingredients": [
+      "Voir recette"
+    ],
+    "recipeLink": "https://www.cookomix.com/recettes/pates-carbonara-thermomix/",
+    "filters": [
+      "Italien",
+      "Valeur sûre",
+      "Rapide"
+    ]
+  },
+  {
+  "id": 3,
+  "name": "Melon / Jambon",
+  "description": "Un classique de l'été",
+  "ingredients": [
+    "1 melon",
+    "Jambon cry"
+  ],
+  "recipeLink": "",
+  "filters": [
+    "Eté",
+    "Très rapide"
+  ]
+},
+{
+  "id": 4,
+  "name": "Soupe",
+  "description": "Pas le weekend",
+  "ingredients": [
+    "Chercher recette sur cookomix"
+  ],
+  "recipeLink": "https://www.cookomix.com/recherche/soupe/",
+  "filters": [
+    "Hiver",
+    "Légumes",
+    "Un peu long"
+  ]
+},
+{
+  "id": 5,
+  "name": "Coucou",
+  "description": "A classic Russian dish made with beef, mushrooms, and sour cream.",
+  "ingredients": [
+    "1 pound beef sirloin, sliced into thin strips",
+    "1/2 cup all-purpose flour",
+    "Salt and freshly ground black pepper, to taste",
+    "4 tablespoons unsalted butter",
+    "1 onion, chopped",
+    "8 ounces mushrooms, sliced",
+    "1 cup beef broth",
+    "1/2 cup sour cream",
+    "1 tablespoon Dijon mustard",
+    "1 tablespoon Worcestershire sauce",
+    "1/4 cup chopped fresh parsley"
+  ],
+  "recipeLink": "https://www.foodnetwork.com/recipes/tyler-florence/beef-stroganoff-recipe-1943355",
+  "filters": [
+    "Russian",
+    "Beef",
+    "Mushrooms",
+    "Sour cream"
+  ]
+},
+{
+  "id": 6,
+  "name": "Test",
+  "description": "A classic Russian dish made with beef, mushrooms, and sour cream.",
+  "ingredients": [
+    "1 pound beef sirloin, sliced into thin strips",
+    "1/2 cup all-purpose flour",
+    "Salt and freshly ground black pepper, to taste",
+    "4 tablespoons unsalted butter",
+    "1 onion, chopped",
+    "8 ounces mushrooms, sliced",
+    "1 cup beef broth",
+    "1/2 cup sour cream",
+    "1 tablespoon Dijon mustard",
+    "1 tablespoon Worcestershire sauce",
+    "1/4 cup chopped fresh parsley"
+  ],
+  "recipeLink": "https://www.foodnetwork.com/recipes/tyler-florence/beef-stroganoff-recipe-1943355",
+  "filters": [
+    "Russian",
+    "Beef",
+    "Mushrooms",
+    "Sour cream"
+  ]
+}
+]
