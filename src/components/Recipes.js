@@ -26,7 +26,7 @@ const Recipes = () => {
           <li key={index} className='list-disc'>{ingredient}</li>
         ))}
       </ul>
-      {recipe.recipeLink && <a href={recipe.recipeLink} className='w-fit m-auto py-2 px-3 bg-emerald-500 rounded-md text-white'>Link to recipe</a>}
+      {recipe.recipeLink && <a href={recipe.recipeLink} className='w-fit m-auto py-2 px-3 bg-emerald-500 rounded-md text-white'>Recette</a>}
       <div className='flex flex-wrap'>
         {recipe.filters.map((filter, index) => (
           <button

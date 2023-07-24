@@ -55,52 +55,68 @@
 },
 {
   "id": 5,
-  "name": "Coucou",
-  "description": "A classic Russian dish made with beef, mushrooms, and sour cream.",
+  "name": "Gratin de ravioles aux courgettes",
+  "description": "",
   "ingredients": [
-    "1 pound beef sirloin, sliced into thin strips",
-    "1/2 cup all-purpose flour",
-    "Salt and freshly ground black pepper, to taste",
-    "4 tablespoons unsalted butter",
-    "1 onion, chopped",
-    "8 ounces mushrooms, sliced",
-    "1 cup beef broth",
-    "1/2 cup sour cream",
-    "1 tablespoon Dijon mustard",
-    "1 tablespoon Worcestershire sauce",
-    "1/4 cup chopped fresh parsley"
+    "100 grammes Parmesan",
+    "2 Gousses d'ail",
+    "80 grammes Oignons",
+    "5 grammes Persil frais",
+    "15 grammes Huile d'olive",
+    "750 grammes Courgettes",
+    "2 pincées Sel",
+    "2 pincées Poivre",
+    "350 grammes Crème fleurette",
+    "2 pincées Noix de muscade moulue",
+    "480 grammes Ravioles"
   ],
-  "recipeLink": "https://www.foodnetwork.com/recipes/tyler-florence/beef-stroganoff-recipe-1943355",
+  "recipeLink": "https://www.cookomix.com/recettes/gratin-ravioles-courgettes-thermomix/",
   "filters": [
-    "Russian",
-    "Beef",
-    "Mushrooms",
-    "Sour cream"
+    "Gratin",
+    "1 heure"
   ]
 },
 {
   "id": 6,
-  "name": "Test",
-  "description": "A classic Russian dish made with beef, mushrooms, and sour cream.",
+  "name": "Tomate/Mozza",
+  "description": "",
   "ingredients": [
-    "1 pound beef sirloin, sliced into thin strips",
-    "1/2 cup all-purpose flour",
-    "Salt and freshly ground black pepper, to taste",
-    "4 tablespoons unsalted butter",
-    "1 onion, chopped",
-    "8 ounces mushrooms, sliced",
-    "1 cup beef broth",
-    "1/2 cup sour cream",
-    "1 tablespoon Dijon mustard",
-    "1 tablespoon Worcestershire sauce",
-    "1/4 cup chopped fresh parsley"
+    "Tomates",
+    "Mozza",
+    "Basilic",
+    "Huile d'olive"
   ],
-  "recipeLink": "https://www.foodnetwork.com/recipes/tyler-florence/beef-stroganoff-recipe-1943355",
+  "recipeLink": "",
   "filters": [
-    "Russian",
-    "Beef",
-    "Mushrooms",
-    "Sour cream"
+    "Eté",
+    "Très rapide",
+    "Salade"
+  ]
+},
+{
+  "id": 7,
+  "name": "Pâtes au thon",
+  "description": "Le thon c'est bon",
+  "ingredients": [
+    "Pates",
+    "Thon"
+  ],
+  "recipeLink": "",
+  "filters": [
+    "Très rapide"
+  ]
+},
+{
+  "id": 7,
+  "name": "Gratin de pâtes au brocoli",
+  "description": "",
+  "ingredients": [
+    "Pates",
+    "Thon"
+  ],
+  "recipeLink": "https://www.cookomix.com/recettes/gratin-pates-brocoli-thermomix/",
+  "filters": [
+    "Très rapide"
   ]
 }
 ]
