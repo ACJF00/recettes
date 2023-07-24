@@ -81,10 +81,20 @@
   "name": "Tomate/Mozza",
   "description": "",
   "ingredients": [
-    "Tomates",
-    "Mozza",
-    "Basilic",
-    "Huile d'olive"
+    "1 cube de bouillon de légumes",
+    "250 grammes de penne",
+    "1 cuillère à café d'huile d'olive",
+    "500 grammes d'eau",
+    "300 grammes de brocolis",
+    "250 grammes de mascarpone",
+    "200 grammes de crème fraîche liquide",
+    "1 cuillère à café de sel",
+    "2 pincées de noix de muscade moulue",
+    "1 pincée de poivre",
+    "1 gousse d'ail",
+    "250 grammes de tranches de jambon",
+    "100 grammes de mozzarella râpée",
+    "100 grammes d'emmental râpé"
   ],
   "recipeLink": "",
   "filters": [
@@ -117,6 +127,64 @@
   "recipeLink": "https://www.cookomix.com/recettes/gratin-pates-brocoli-thermomix/",
   "filters": [
     "Très rapide"
+  ]
+},
+{
+  "id": 8,
+  "name": "Riz/poisson",
+  "description": "",
+  "ingredients": [
+    "Riz",
+    "Poisson"
+  ],
+  "recipeLink": "",
+  "filters": [
+    "Rapide"
+  ]
+},
+{
+  "id": 9,
+  "name": "Moules marinières",
+  "description": "",
+  "ingredients": [
+  ],
+  "recipeLink": "https://www.cookomix.com/recettes/moules-marinieres-thermomix/",
+  "filters": [
+    "Rapide"
+  ]
+},
+{
+  "id": 10,
+  "name": "Salade de pâtes",
+  "description": "",
+  "ingredients": [
+  ],
+  "recipeLink": "",
+  "filters": [
+    "Un peu long",
+    "Eté"
+  ]
+},
+{
+  "id": 11,
+  "name": "Risotto au chorizo",
+  "description": "",
+  "ingredients": [
+  ],
+  "recipeLink": "https://www.cookomix.com/recettes/risotto-au-chorizo-thermomix/",
+  "filters": [
+    "Un peu long"
+  ]
+},
+{
+  "id": 12,
+  "name": "Crumble poulet, courgettes et parmesan",
+  "description": "",
+  "ingredients": [
+  ],
+  "recipeLink": "https://www.cookomix.com/recettes/crumble-poulet-courgettes-thermomix/",
+  "filters": [
+    "Un peu long"
   ]
 }
 ]
