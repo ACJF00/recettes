@@ -7,8 +7,9 @@
       "Un bon paquet de gnocchis"
     ],
     "recipeLink": "",
+    "duration": "Très rapide",
     "filters": [
-      "Très rapide"
+      ""
     ]
   },
   {
@@ -19,10 +20,10 @@
       "Voir recette"
     ],
     "recipeLink": "https://www.cookomix.com/recettes/pates-carbonara-thermomix/",
+    "duration": "Rapide",
     "filters": [
       "Italien",
-      "Valeur sûre",
-      "Rapide"
+      "Valeur sûre"
     ]
   },
   {
@@ -34,9 +35,9 @@
     "Jambon cry"
   ],
   "recipeLink": "",
+  "duration": "Très rapide",
   "filters": [
-    "Eté",
-    "Très rapide"
+    "Eté"
   ]
 },
 {
@@ -47,10 +48,10 @@
     "Chercher recette sur cookomix"
   ],
   "recipeLink": "https://www.cookomix.com/recherche/soupe/",
+  "duration": "Un peu long",
   "filters": [
     "Hiver",
-    "Légumes",
-    "Un peu long"
+    "Légumes"
   ]
 },
 {
@@ -71,9 +72,9 @@
     "480 grammes Ravioles"
   ],
   "recipeLink": "https://www.cookomix.com/recettes/gratin-ravioles-courgettes-thermomix/",
+  "duration": "Un peu long",
   "filters": [
-    "Gratin",
-    "1 heure"
+    "Gratin"
   ]
 },
 {
@@ -97,9 +98,9 @@
     "100 grammes d'emmental râpé"
   ],
   "recipeLink": "",
+  "duration": "Très rapide",
   "filters": [
     "Eté",
-    "Très rapide",
     "Salade"
   ]
 },
@@ -112,8 +113,9 @@
     "Thon"
   ],
   "recipeLink": "",
+  "duration": "Très rapide",
   "filters": [
-    "Très rapide"
+    ""
   ]
 },
 {
@@ -125,8 +127,9 @@
     "Thon"
   ],
   "recipeLink": "https://www.cookomix.com/recettes/gratin-pates-brocoli-thermomix/",
+  "duration": "Très rapide",
   "filters": [
-    "Très rapide"
+    ""
   ]
 },
 {
@@ -138,8 +141,9 @@
     "Poisson"
   ],
   "recipeLink": "",
+  "duration": "Rapide",
   "filters": [
-    "Rapide"
+    ""
   ]
 },
 {
@@ -149,8 +153,9 @@
   "ingredients": [
   ],
   "recipeLink": "https://www.cookomix.com/recettes/moules-marinieres-thermomix/",
+  "duration": "Un peu long",
   "filters": [
-    "Rapide"
+    ""
   ]
 },
 {
@@ -160,8 +165,8 @@
   "ingredients": [
   ],
   "recipeLink": "",
+  "duration": "Un peu long",
   "filters": [
-    "Un peu long",
     "Eté"
   ]
 },
@@ -172,8 +177,9 @@
   "ingredients": [
   ],
   "recipeLink": "https://www.cookomix.com/recettes/risotto-au-chorizo-thermomix/",
+  "duration": "Un peu long",
   "filters": [
-    "Un peu long"
+    ""
   ]
 },
 {
@@ -183,8 +189,57 @@
   "ingredients": [
   ],
   "recipeLink": "https://www.cookomix.com/recettes/crumble-poulet-courgettes-thermomix/",
+  "duration": "Un peu long",
   "filters": [
-    "Un peu long"
+    ""
+  ]
+},
+{
+  "id": 13,
+  "name": "Risotto aux crevettes et asperges",
+  "description": "",
+  "ingredients": [
+  ],
+  "recipeLink": "https://www.cookomix.com/recettes/risotto-crevettes-asperges-thermomix/",
+  "duration": "Moyen",
+  "filters": [
+    ""
+  ]
+},
+{
+  "id": 14,
+  "name": "Risotto courgettes saumon",
+  "description": "",
+  "ingredients": [
+  ],
+  "recipeLink": "https://www.cookomix.com/recettes/risotto-courgettes-saumon-thermomix/",
+  "duration": "Un peu long",
+  "filters": [
+    ""
+  ]
+},
+{
+  "id": 15,
+  "name": "Tarte asperges et jambon",
+  "description": "",
+  "ingredients": [
+  ],
+  "recipeLink": "https://www.cookomix.com/recettes/tarte-asperges-jambon-thermomix/",
+  "duration": "Long",
+  "filters": [
+    ""
+  ]
+},
+{
+  "id": 16,
+  "name": "Croissants au jambon",
+  "description": "",
+  "ingredients": [
+  ],
+  "recipeLink": "https://www.cookomix.com/recettes/croissants-au-jambon-thermomix/",
+  "duration": "Long",
+  "filters": [
+    ""
   ]
 }
 ]
