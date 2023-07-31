@@ -48,7 +48,7 @@
     "Chercher recette sur cookomix"
   ],
   "recipeLink": "https://www.cookomix.com/recherche/soupe/",
-  "duration": "Un peu long",
+  "duration": "Moyen",
   "filters": [
     "Hiver",
     "Légumes"
@@ -72,7 +72,7 @@
     "480 grammes Ravioles"
   ],
   "recipeLink": "https://www.cookomix.com/recettes/gratin-ravioles-courgettes-thermomix/",
-  "duration": "Un peu long",
+  "duration": "Moyen",
   "filters": [
     "Gratin"
   ]
@@ -123,8 +123,6 @@
   "name": "Gratin de pâtes au brocoli",
   "description": "",
   "ingredients": [
-    "Pates",
-    "Thon"
   ],
   "recipeLink": "https://www.cookomix.com/recettes/gratin-pates-brocoli-thermomix/",
   "duration": "Très rapide",
@@ -153,7 +151,7 @@
   "ingredients": [
   ],
   "recipeLink": "https://www.cookomix.com/recettes/moules-marinieres-thermomix/",
-  "duration": "Un peu long",
+  "duration": "Moyen",
   "filters": [
     ""
   ]
@@ -165,7 +163,7 @@
   "ingredients": [
   ],
   "recipeLink": "",
-  "duration": "Un peu long",
+  "duration": "Moyen",
   "filters": [
     "Eté"
   ]
@@ -177,7 +175,7 @@
   "ingredients": [
   ],
   "recipeLink": "https://www.cookomix.com/recettes/risotto-au-chorizo-thermomix/",
-  "duration": "Un peu long",
+  "duration": "Moyen",
   "filters": [
     ""
   ]
@@ -189,7 +187,7 @@
   "ingredients": [
   ],
   "recipeLink": "https://www.cookomix.com/recettes/crumble-poulet-courgettes-thermomix/",
-  "duration": "Un peu long",
+  "duration": "Moyen",
   "filters": [
     ""
   ]
@@ -213,7 +211,7 @@
   "ingredients": [
   ],
   "recipeLink": "https://www.cookomix.com/recettes/risotto-courgettes-saumon-thermomix/",
-  "duration": "Un peu long",
+  "duration": "Moyen",
   "filters": [
     ""
   ]
@@ -238,6 +236,378 @@
   ],
   "recipeLink": "https://www.cookomix.com/recettes/croissants-au-jambon-thermomix/",
   "duration": "Long",
+  "filters": [
+    ""
+  ]
+},
+{
+  "id": 17,
+  "name": "Vol au vent brandade",
+  "description": "",
+  "ingredients": [
+  ],
+  "recipeLink": "",
+  "duration": "Très rapide",
+  "filters": [
+    ""
+  ]
+},
+{
+  "id": 18,
+  "name": "Lasagnes",
+  "description": "",
+  "ingredients": [
+  ],
+  "recipeLink": "https://www.cookomix.com/recettes/lasagnes-bolognaise-thermomix/",
+  "duration": "Long",
+  "filters": [
+    ""
+  ]
+},
+{
+  "id": 19,
+  "name": "Lasagnes",
+  "description": "",
+  "ingredients": [
+  ],
+  "recipeLink": "https://www.cookomix.com/recettes/lasagnes-bolognaise-thermomix/",
+  "duration": "Long",
+  "filters": [
+    ""
+  ]
+},
+{
+  "id": 20,
+  "name": "Pâtes chorizo",
+  "description": "",
+  "ingredients": [
+  ],
+  "recipeLink": "",
+  "duration": "Rapide",
+  "filters": [
+    ""
+  ]
+},
+{
+  "id": 21,
+  "name": "Salade de riz",
+  "description": "",
+  "ingredients": [
+  ],
+  "recipeLink": "",
+  "duration": "Moyen",
+  "filters": [
+    ""
+  ]
+},
+{
+  "id": 22,
+  "name": "Haricot à la poêle / viande ",
+  "description": "",
+  "ingredients": [
+  ],
+  "recipeLink": "",
+  "duration": "Rapide",
+  "filters": [
+    ""
+  ]
+},
+{
+  "id": 22,
+  "name": "Haricot à la poêle / viande",
+  "description": "",
+  "ingredients": [
+  ],
+  "recipeLink": "",
+  "duration": "Rapide",
+  "filters": [
+    ""
+  ]
+},
+{
+  "id": 23,
+  "name": "Hachis parmentier",
+  "description": "",
+  "ingredients": [
+  ],
+  "recipeLink": "https://www.cookomix.com/recettes/hachis-parmentier-thermomix/",
+  "duration": "Moyen",
+  "filters": [
+    ""
+  ]
+},
+{
+  "id": 24,
+  "name": "Poulet / légumes",
+  "description": "",
+  "ingredients": [
+  ],
+  "recipeLink": "",
+  "duration": "Moyen",
+  "filters": [
+    ""
+  ]
+},
+{
+  "id": 26,
+  "name": "Blanquette de veau",
+  "description": "",
+  "ingredients": [
+  ],
+  "recipeLink": "https://www.cookomix.com/recettes/blanquette-de-veau-thermomix/",
+  "duration": "Long",
+  "filters": [
+    ""
+  ]
+},
+{
+  "id": 27,
+  "name": "Saumon pommes de terre sauce champignons",
+  "description": "",
+  "ingredients": [
+  ],
+  "recipeLink": "",
+  "duration": "Moyen",
+  "filters": [
+    ""
+  ]
+},
+{
+  "id": 28,
+  "name": "Papillote de turbo aux petits légumes",
+  "description": "",
+  "ingredients": [
+  ],
+  "recipeLink": "",
+  "duration": "Long",
+  "filters": [
+    ""
+  ]
+},
+{
+  "id": 29,
+  "name": "Tarte brocolis ",
+  "description": "",
+  "ingredients": [
+  ],
+  "recipeLink": "",
+  "duration": "Moyen",
+  "filters": [
+    ""
+  ]
+},
+{
+  "id": 30,
+  "name": "Soufflé au fromage ",
+  "description": "",
+  "ingredients": [
+  ],
+  "recipeLink": "",
+  "duration": "Rapide",
+  "filters": [
+    ""
+  ]
+},
+{
+  "id": 31,
+  "name": "Gratin de courgettes",
+  "description": "",
+  "ingredients": [
+  ],
+  "recipeLink": "",
+  "duration": "Long",
+  "filters": [
+    ""
+  ]
+},
+{
+  "id": 32,
+  "name": "Épinard/oeufs",
+  "description": "",
+  "ingredients": [
+  ],
+  "recipeLink": "",
+  "duration": "Moyen",
+  "filters": [
+    ""
+  ]
+},
+{
+  "id": 33,
+  "name": "Purée Steak",
+  "description": "",
+  "ingredients": [
+  ],
+  "recipeLink": "",
+  "duration": "Moyen",
+  "filters": [
+    ""
+  ]
+},
+{
+  "id": 34,
+  "name": "Gratin dauphinois",
+  "description": "",
+  "ingredients": [
+  ],
+  "recipeLink": "https://www.cookomix.com/recettes/gratin-dauphinois-thermomix/",
+  "duration": "Long",
+  "filters": [
+    ""
+  ]
+},
+{
+  "id": 35,
+  "name": "Gratin de courgettes à la provençale",
+  "description": "",
+  "ingredients": [
+  ],
+  "recipeLink": "",
+  "duration": "Long",
+  "filters": [
+    ""
+  ]
+},
+{
+  "id": 36,
+  "name": "Tarte au thon et à la tomate",
+  "description": "",
+  "ingredients": [
+  ],
+  "recipeLink": "",
+  "duration": "Rapide",
+  "filters": [
+    ""
+  ]
+},
+{
+  "id": 37,
+  "name": "Gratin de pâtes ",
+  "description": "",
+  "ingredients": [
+  ],
+  "recipeLink": "",
+  "duration": "Rapide",
+  "filters": [
+    ""
+  ]
+},
+{
+  "id": 38,
+  "name": "Riz / nem",
+  "description": "",
+  "ingredients": [
+  ],
+  "recipeLink": "",
+  "duration": "Rapide",
+  "filters": [
+    ""
+  ]
+},
+{
+  "id": 39,
+  "name": "Jambalaya",
+  "description": "",
+  "ingredients": [
+  ],
+  "recipeLink": "https://www.cookomix.com/recettes/jambalaya-thermomix/",
+  "duration": "Long",
+  "filters": [
+    ""
+  ]
+},
+{
+  "id": 40,
+  "name": "Lentilles viande",
+  "description": "",
+  "ingredients": [
+  ],
+  "recipeLink": "",
+  "duration": "Long",
+  "filters": [
+    ""
+  ]
+},
+{
+  "id": 41,
+  "name": "Feuilleté saumon poireaux",
+  "description": "",
+  "ingredients": [
+  ],
+  "recipeLink": "https://www.cookomix.com/recettes/feuillete-saumon-poireaux-thermomix/",
+  "duration": "Long",
+  "filters": [
+    ""
+  ]
+},
+{
+  "id": 42,
+  "name": "Filet de cabillaud et sa sauce persillé",
+  "description": "",
+  "ingredients": [
+  ],
+  "recipeLink": "https://www.cookomix.com/recettes/filet-de-cabillaud-sauce-persillee-thermomix/",
+  "duration": "Long",
+  "filters": [
+    ""
+  ]
+},
+{
+  "id": 43,
+  "name": "Roulé aux courgettes et au saumon fumé",
+  "description": "",
+  "ingredients": [
+  ],
+  "recipeLink": "https://www.cookomix.com/recettes/roule-courgettes-saumon-fume-thermomix/",
+  "duration": "Très long",
+  "filters": [
+    ""
+  ]
+},
+{
+  "id": 44,
+  "name": "Aubergine à la parmesane",
+  "description": "",
+  "ingredients": [
+  ],
+  "recipeLink": "https://www.cookomix.com/recettes/aubergines-parmesane-thermomix/",
+  "duration": "Long",
+  "filters": [
+    ""
+  ]
+},
+{
+  "id": 45,
+  "name": "Fondue de poireaux",
+  "description": "",
+  "ingredients": [
+  ],
+  "recipeLink": "https://www.cookomix.com/recettes/fondue-de-poireaux-thermomix/",
+  "duration": "Moyen",
+  "filters": [
+    ""
+  ]
+},
+{
+  "id": 46,
+  "name": "Gratin de courgettes au chèvre",
+  "description": "",
+  "ingredients": [
+  ],
+  "recipeLink": "https://www.cookomix.com/recettes/gratin-de-courgettes-chevre-thermomix/",
+  "duration": "Moyen",
+  "filters": [
+    ""
+  ]
+},
+{
+  "id": 47,
+  "name": "Gougères",
+  "description": "",
+  "ingredients": [
+  ],
+  "recipeLink": "",
+  "duration": "Moyen",
   "filters": [
     ""
   ]
