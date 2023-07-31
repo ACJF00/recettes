@@ -7,6 +7,7 @@ const Recipes = () => {
   const duration = recipes.flatMap((recipe) => recipe.duration);
   const uniqueFilters = [...new Set(duration)];
   const [recipesFilters, setRecipesFilters] = useState([]);
+  const [loading, setLoading] = useState(false);
 
     const handleFilterClick = (filter) => {
       const selectedFilter = filter.target.innerText;
@@ -18,26 +19,31 @@ const Recipes = () => {
       }
     };
 
-  const handleShuffleClick = () => {
-    if (recipesFilters.length > 0) {
-      console.log("RECIPES ", recipes.duration)
-      const filteredRecipes = recipes.filter((recipe) =>
-        recipesFilters.includes(recipe.duration)
-      );
-      const filteredRecipesIndex = filteredRecipes.map((recipe) =>
-        recipes.indexOf(recipe)
-      );
-      const randomIndex = filteredRecipesIndex[
-        Math.floor(Math.random() * filteredRecipesIndex.length)
-      ];
-      console.log("FILTERED RECIPES ", filteredRecipesIndex)
-      setRecipeIndex(randomIndex);
-    } 
-    else {
-      const randomIndex = Math.floor(Math.random() * recipes.length);
-      setRecipeIndex(randomIndex);
-    }
-  };
+    const handleShuffleClick = () => {
+      if (recipesFilters.length > 0) {
+        setLoading(true);
+        const filteredRecipes = recipes.filter((recipe) =>
+          recipesFilters.includes(recipe.duration)
+        );
+        const filteredRecipesIndex = filteredRecipes.map((recipe) =>
+          recipes.indexOf(recipe)
+        );
+        const randomIndex = filteredRecipesIndex[
+          Math.floor(Math.random() * filteredRecipesIndex.length)
+        ];
+        setTimeout(() => {
+          setLoading(false);
+          setRecipeIndex(randomIndex);
+        }, 1000);
+      } else {
+        setLoading(true);
+        const randomIndex = Math.floor(Math.random() * recipes.length);
+        setTimeout(() => {
+          setLoading(false);
+          setRecipeIndex(randomIndex);
+        }, 1000);
+      }
+    };
 
   return (
     <>
@@ -46,7 +52,7 @@ const Recipes = () => {
   <button
     key={index}
     onClick={handleFilterClick}
-    className={`py-2 px-3 text-black rounded-md mt-2 m-auto border border-grey-400 w-[9rem] md:w-fit ${
+    className={`py-2 px-3 text-black rounded-md mt-2 m-auto border border-grey-400 w-[9rem] md:w-fit duration-200 ${
       recipesFilters.includes(filter) ? 'bg-emerald-500 text-white' : ''
     }`}
   >
@@ -55,12 +61,21 @@ const Recipes = () => {
 ))}
       </div>
       <button
-        className="py-2 px-3 bg-emerald-500 rounded-md text-white mt-2 w-fit m-auto"
+        className="py-2 px-3 bg-emerald-500 rounded-md text-white mt-2 w-fit m-auto flex"
         onClick={handleShuffleClick}
       >
-        Shuffle
+        {loading && (
+        <span>Loading</span>
+        )}
+        {!loading && (
+        <span>Shuffle</span>
+        )}
       </button>
-      <div className="border border-gray rounded-lg p-4 w-10/12 md:w-3/12 m-4 gap-4 flex flex-col m-auto">
+      {loading && (
+              <span className="loading loading-infinity m-auto w-52 text-emerald-500"></span>
+      )}
+      {!loading && (
+      <div className="border border-gray rounded-lg p-4 w-10/12 md:w-3/12 m-4 gap-4 flex flex-col m-auto shadow-xl">
         <h2 className="font-bold text-xl">{recipe.name}</h2>
         <p className="text-xs text-gray-400 font-bold">{recipe.description}</p>
         <ul className="pl-6">
@@ -98,6 +113,7 @@ const Recipes = () => {
           }
         </div>
       </div>
+      )}
     </>
   );
 };
