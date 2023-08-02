@@ -248,10 +248,10 @@
   },
   {
     "id": 20,
-    "name": "Lasagnes",
+    "name": "Gratin de poisson",
     "description": "",
     "ingredients": [],
-    "recipeLink": "https://www.cookomix.com/recettes/lasagnes-bolognaise-thermomix/",
+    "recipeLink": "",
     "duration": "Long",
     "filters": [""]
   },
