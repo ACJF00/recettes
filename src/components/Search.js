@@ -45,7 +45,7 @@ const Search = ({ selectedOption }) => {
         )}
       </div>
       {searchResults.length > 0 && (
-        <select className="border border-gray-400 rounded-md py-2 px-4 w-64" onChange={handleSelectChange} value={selectedOption}>
+        <select className="border border-gray-400 rounded-md py-2 px-4 w-64 h-12 bg-white" onChange={handleSelectChange} value={selectedOption}>
           {searchResults.map((recipe) => (
           <option key={recipe.id} value={JSON.stringify(recipe)}>
           {recipe.name}
